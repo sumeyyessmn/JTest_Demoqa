@@ -2,7 +2,7 @@
 
 Bu proje, **DemoQA** web sitesindeki çeşitli bileşenlerin otomasyon testlerini içermektedir. Java ve TestNG kullanılarak yazılmış olan bu testler, web elemanlarının doğru şekilde çalıştığını doğrulamaya yöneliktir.
 
-## 🎯 Amaç
+## 🎯 Hedef
 DemoQA sitesinde bulunan çeşitli bileşenleri test etmek ve **otomasyon test senaryoları** yazma pratiği yapmaktır. Testler, sayfa üzerindeki öğelerin beklenen şekilde çalıştığını doğrulamaya yardımcı olur.
 
 ## 🛠️ Kullanılan Teknolojiler

@@ -39,3 +39,9 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
    ```sh
    git clone https://github.com/sumeyyessmn/JTest_Demoqa.git
    cd JTest_Demoqa
+2. **Bağımlılıkları yükleyin:**
+   ```sh
+   mvn clean install
+3. **Testleri çalıştırın:**
+   ```sh
+   mvn test
